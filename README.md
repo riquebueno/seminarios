@@ -8,3 +8,4 @@ Observações:
 - Também será exigida de cada aluno novo de Doutorado a comprovação da submissão  de  um  artigo  para  periódico  classificado  no  Qualis  da  Computação  em  estrato A1,  A2 ou B1
 - É exigido aceitação de um artigo em estrato superior ou igual a B2. 
 - A  banca  não  será  aprovada  e  a  defesa  não  será permitida sem a devida comprovação do cumprimento da respectiva exigência.
+- Link para WebQualis: https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf
