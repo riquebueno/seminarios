@@ -9,3 +9,5 @@ Observações:
 - É exigido aceitação de um artigo em estrato superior ou igual a B2. 
 - A  banca  não  será  aprovada  e  a  defesa  não  será permitida sem a devida comprovação do cumprimento da respectiva exigência.
 - Link para WebQualis: https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf
+- Qualis das conferências: http://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf
+- Outros links: http://ic.uff.br/index.php/pt/pos-graduacao/links-e-documentos
